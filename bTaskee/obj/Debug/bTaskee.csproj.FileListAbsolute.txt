@@ -1,0 +1,13 @@
+D:\CLOUDX\Courses\Nam3\C#\TH\bTaskee\bTaskee\obj\Debug\bTaskee.csproj.AssemblyReference.cache
+D:\CLOUDX\Courses\Nam3\C#\TH\bTaskee\bTaskee\obj\Debug\bTaskee.bTaskee.resources
+D:\CLOUDX\Courses\Nam3\C#\TH\bTaskee\bTaskee\obj\Debug\bTaskee.Properties.Resources.resources
+D:\CLOUDX\Courses\Nam3\C#\TH\bTaskee\bTaskee\obj\Debug\bTaskee.csproj.GenerateResource.cache
+D:\CLOUDX\Courses\Nam3\C#\TH\bTaskee\bTaskee\obj\Debug\bTaskee.csproj.CoreCompileInputs.cache
+D:\CLOUDX\Courses\Nam3\C#\TH\bTaskee\bTaskee\bin\Debug\bTaskee.exe.config
+D:\CLOUDX\Courses\Nam3\C#\TH\bTaskee\bTaskee\bin\Debug\bTaskee.exe
+D:\CLOUDX\Courses\Nam3\C#\TH\bTaskee\bTaskee\bin\Debug\bTaskee.pdb
+D:\CLOUDX\Courses\Nam3\C#\TH\bTaskee\bTaskee\obj\Debug\bTaskee.exe
+D:\CLOUDX\Courses\Nam3\C#\TH\bTaskee\bTaskee\obj\Debug\bTaskee.pdb
+D:\CLOUDX\Courses\Nam3\C#\TH\bTaskee\bTaskee\obj\Debug\bTaskee.ChildForm.FormUser.resources
+D:\CLOUDX\Courses\Nam3\C#\TH\bTaskee\bTaskee\obj\Debug\bTaskee.ChildForm.FormActivity.resources
+D:\CLOUDX\Courses\Nam3\C#\TH\bTaskee\bTaskee\obj\Debug\bTaskee.ChildForm.FormServices.resources
